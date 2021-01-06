@@ -1,0 +1,25 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "basic node app ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abinwc/node-app.git"
+  },
+  "author": "abinwc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abinwc/node-app/issues"
+  },
+  "homepage": "https://github.com/Abinwc/node-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "node-env-run": "^4.0.2"
+  }
+}
